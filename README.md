@@ -13,6 +13,7 @@ Welcome to **Weather App**, a sleek and modern weather forecasting application b
 ## 🖼️ App Screenshots
 
 ### Dark Mode
+<img src="app/src/main/res/drawable/dark_mode.png">
 ![Dark Mode](app/src/main/res/drawable/dark_mode.png)
 
 ### Light Mode
