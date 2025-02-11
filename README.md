@@ -8,7 +8,7 @@ Welcome to **Weather App**, a sleek and modern weather forecasting application b
 - **Jetpack Compose UI**: Fully designed with Jetpack Compose for smooth and responsive user interface.
 - **Dark & Light Modes**: Switch effortlessly between dark and light themes.
 - **Location-Based Forecast**: Automatically fetch weather details based on your current location.
-- **Minimal & Clean Design**: Focused on providing an intuitive user experience with minimal distractions.
+<!- **Minimal & Clean Design**: Focused on providing an intuitive user experience with minimal distractions.->
 
 ## 🖼️ App Screenshots
 
