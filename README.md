@@ -13,16 +13,16 @@ Welcome to **Weather App**, a sleek and modern weather forecasting application b
 ## 🖼️ App Screenshots
 
 ### Dark Mode
-![Dark Mode](https://raw.githubusercontent.com/abdullahalnuman0/Weather-App-Jetpack-Compose/refs/heads/main/app/src/main/res/drawable/dark_mode.png)
+![Dark Mode](app/src/main/res/drawable/dark_mode.png)
 
 ### Light Mode
-![Light Mode](path_to_light_mode_image)
+![Light Mode](app/src/main/res/drawable/light_mode.png)
 
 ## 📥 Download the App
 
 Click the button below to download the latest version of **Weather App**:
 
-[![Download](app/src/main/res/drawable/dark_mode.png)
+[![Download](weather-app.apk)
 
 ---
 
