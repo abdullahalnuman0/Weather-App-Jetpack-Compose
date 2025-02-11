@@ -22,7 +22,7 @@ Welcome to **Weather App**, a sleek and modern weather forecasting application b
 
 Click the button below to download the latest version of **Weather App**:
 
-[![Download](https://img.shields.io/badge/Download-APK-blue.svg)](link_to_apk_file)
+[![Download](app/src/main/res/drawable/dark_mode.png)
 
 ---
 
