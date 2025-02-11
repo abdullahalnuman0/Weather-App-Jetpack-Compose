@@ -13,7 +13,7 @@ Welcome to **Weather App**, a sleek and modern weather forecasting application b
 ## 🖼️ App Screenshots
 
 ### Dark Mode
-![Dark Mode]([path_to_dark_mode_image](https://raw.githubusercontent.com/abdullahalnuman0/Weather-App-Jetpack-Compose/refs/heads/main/app/src/main/res/drawable/dark_mode.png))
+![Dark Mode](https://raw.githubusercontent.com/abdullahalnuman0/Weather-App-Jetpack-Compose/refs/heads/main/app/src/main/res/drawable/dark_mode.png)
 
 ### Light Mode
 ![Light Mode](path_to_light_mode_image)
